@@ -29,4 +29,4 @@ To ensure that the DescriPix Swift application communicates correctly with your 
 ## Conclusion
 
 After following these steps, your DescriPix server should be up and running, and the Swift application should be configured to communicate with it. This setup will allow you to start using DescriPix to convert images into vocal descriptions for visually impaired users.
-# DescriPix
+
